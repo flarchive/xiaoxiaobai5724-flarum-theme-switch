@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of xiaoxiaobai5724/flarum-theme-switch.** Not for installation: use [Packagist](https://packagist.org/packages/xiaoxiaobai5724/flarum-theme-switch) or the [upstream repository](https://github.com/Xiaoxiaobai5724/flarum-theme-switch).
 
-**0** versions archived · Latest: [`0.2`](https://github.com/flarchive/xiaoxiaobai5724-flarum-theme-switch/tree/archive/v0.2) · Flarum: `^1.8.0`
+**2** versions archived · Latest: [`0.2`](https://github.com/flarchive/xiaoxiaobai5724-flarum-theme-switch/tree/archive/v0.2) · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1` | 2025-08-31 | `^1.8.0` | [Browse](https://github.com/flarchive/xiaoxiaobai5724-flarum-theme-switch/tree/archive/v0.1) |
+| `0.2` | 2025-08-31 | `^1.8.0` | [Browse](https://github.com/flarchive/xiaoxiaobai5724-flarum-theme-switch/tree/archive/v0.2) |
 
 Catalog entry: [packages/xiaoxiaobai5724-flarum-theme-switch.json](https://github.com/flarchive/archive-index/blob/main/packages/xiaoxiaobai5724-flarum-theme-switch.json)
 
